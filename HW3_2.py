@@ -26,8 +26,8 @@ loopIterator = 0
 
 w = [[0, 0], [0, 0]]
 b = [[0], [0]]
-theta = 0
-#alpha = 1
+theta = 1
+alpha = 1.5
 numberOfIteration = 0
 
 """
@@ -86,8 +86,8 @@ while(maxContinuousCount != 8):
     if(checkZ(e)):
         maxContinuousCount += 1
     else:
-        w = np.asmatrix(np.add(w, np.asmatrix(np.matmul(e, np.transpose(x[loopIterator])))))
-        b = np.asmatrix(np.add(b, e))
+        w = np.asmatrix(np.add(w, np.asmatrix(np.dot(alpha, np.asmatrix(np.matmul(e, np.transpose(x[loopIterator])))))))
+        b = np.asmatrix(np.add(b, np.asmatrix(np.dot(alpha, e))))
         
         maxContinuousCount = 0
     
@@ -95,6 +95,8 @@ while(maxContinuousCount != 8):
     numberOfIteration += 1
 
 
+print("Alpha : ", alpha)
+print("Theta : ", theta)
 print("Weights : \n", w, "\n")
 print("Bias : \n", b, "\n")
 
@@ -116,5 +118,5 @@ while(loopIterator != 8):
 
     loopIterator += 1
 
-print("Number of nodes classified correctly : ", correct, "\n")
-print("Number of nodes classified incorrectly : ", incorrect, "\n")
+print("Number of nodes classified correctly : ", correct)
+print("Number of nodes classified incorrectly : ", incorrect)
