@@ -14,7 +14,6 @@ Description : Assignment 3.2 in Neural Network.
 
 
 import numpy as np
-import pandas as pd
 
 
 x = [[[1], [1]], [[1], [2]], [[2], [-1]], [[2], [0]], [[-1], [2]], [[-2], [1]], [[-1], [-1]], [[-2], [-2]]]
@@ -24,10 +23,13 @@ e = [[], []]
 maxContinuousCount = 0
 loopIterator = 0
 
+"""
+Initializing weights and other parameters.
+"""
 w = [[0, 0], [0, 0]]
 b = [[0], [0]]
-theta = 1
-alpha = 1.5
+theta = 0
+alpha = 0.1
 numberOfIteration = 0
 
 """

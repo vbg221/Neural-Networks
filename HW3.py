@@ -23,7 +23,7 @@ loopIterator = 0
 
 #Initial Weights:
 w = [0,0,0,0,0]     #w[0] is bias
-theta = 0.5
+theta = 0.05
 x = [0,0,0,0,0]
 alpha = 1
 numberOfIterations = 0
@@ -100,3 +100,5 @@ print(accuracy_score(dt["Y"], yout))
 
 print("\nNumber of nodes incorrectly classified : ")
 print((1 - accuracy_score(dt["Y"], yout)) * 1000)
+
+print("\nNumber of Iterations : ", numberOfIterations)
