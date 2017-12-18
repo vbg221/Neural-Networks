@@ -1,0 +1,4260 @@
+For Quadratic Functions : 
+#######################################################################################################
+
+
+For N1 :  2
+
+
+Epoch :  96
+Epoch :  83
+Epoch :  90
+Epoch :  84
+Epoch :  86
+Epoch :  80
+Epoch :  92
+Epoch :  86
+Epoch :  86
+Epoch :  88
+Epoch :  67
+Epoch :  89
+Epoch :  108
+Epoch :  107
+Epoch :  85
+Epoch :  97
+Epoch :  79
+Epoch :  81
+Epoch :  73
+Epoch :  67
+Epoch :  96
+Epoch :  104
+Epoch :  88
+Epoch :  90
+Epoch :  124
+Epoch :  78
+Epoch :  89
+Epoch :  98
+Epoch :  83
+Epoch :  80
+Epoch :  83
+Epoch :  87
+Epoch :  71
+
+X0 :  0.5
+t :  0.5
+
+
+Number of times neural network did not converge :  67
+Average epochs :  87
+
+
+==================================================================================================
+
+For N1 :  4
+
+
+Epoch :  110
+Epoch :  88
+Epoch :  73
+Epoch :  73
+Epoch :  71
+Epoch :  92
+Epoch :  73
+Epoch :  97
+Epoch :  62
+Epoch :  65
+Epoch :  75
+Epoch :  64
+Epoch :  64
+Epoch :  94
+Epoch :  82
+Epoch :  81
+Epoch :  80
+Epoch :  69
+Epoch :  60
+Epoch :  72
+Epoch :  75
+Epoch :  48
+Epoch :  63
+Epoch :  102
+Epoch :  90
+Epoch :  69
+Epoch :  79
+Epoch :  95
+Epoch :  64
+Epoch :  85
+Epoch :  61
+Epoch :  61
+Epoch :  89
+Epoch :  82
+Epoch :  74
+Epoch :  74
+Epoch :  64
+Epoch :  78
+Epoch :  75
+Epoch :  105
+Epoch :  75
+Epoch :  65
+Epoch :  70
+Epoch :  60
+Epoch :  116
+Epoch :  87
+Epoch :  61
+Epoch :  82
+Epoch :  74
+Epoch :  87
+Epoch :  81
+Epoch :  63
+Epoch :  64
+Epoch :  70
+Epoch :  60
+Epoch :  69
+Epoch :  82
+Epoch :  80
+
+X0 :  0.5
+t :  0.5
+
+
+Number of times neural network did not converge :  42
+Average epochs :  76
+
+
+==================================================================================================
+
+For N1 :  6
+
+
+Epoch :  60
+Epoch :  55
+Epoch :  63
+Epoch :  108
+Epoch :  65
+Epoch :  79
+Epoch :  71
+Epoch :  69
+Epoch :  74
+Epoch :  79
+Epoch :  68
+Epoch :  76
+Epoch :  61
+Epoch :  59
+Epoch :  65
+Epoch :  70
+Epoch :  78
+Epoch :  61
+Epoch :  74
+Epoch :  73
+Epoch :  78
+Epoch :  60
+Epoch :  70
+Epoch :  98
+Epoch :  60
+Epoch :  53
+Epoch :  98
+Epoch :  97
+Epoch :  82
+Epoch :  72
+Epoch :  74
+Epoch :  74
+Epoch :  86
+Epoch :  49
+Epoch :  138
+Epoch :  93
+Epoch :  65
+Epoch :  62
+Epoch :  49
+Epoch :  78
+Epoch :  67
+Epoch :  96
+Epoch :  100
+Epoch :  95
+Epoch :  65
+Epoch :  77
+Epoch :  49
+Epoch :  143
+Epoch :  84
+Epoch :  63
+Epoch :  71
+Epoch :  178
+Epoch :  78
+Epoch :  2989
+Epoch :  69
+Epoch :  87
+Epoch :  87
+Epoch :  74
+Epoch :  87
+Epoch :  82
+Epoch :  59
+Epoch :  70
+Epoch :  86
+Epoch :  63
+Epoch :  63
+Epoch :  48
+Epoch :  96
+Epoch :  60
+Epoch :  73
+Epoch :  63
+Epoch :  55
+Epoch :  68
+Epoch :  73
+Epoch :  86
+Epoch :  62
+Epoch :  71
+Epoch :  84
+Epoch :  68
+Epoch :  52
+Epoch :  67
+Epoch :  82
+Epoch :  67
+Epoch :  62
+
+X0 :  0.5
+t :  0.5
+
+
+Number of times neural network did not converge :  17
+Average epochs :  110
+
+
+==================================================================================================
+
+For N1 :  8
+
+
+Epoch :  53
+Epoch :  66
+Epoch :  59
+Epoch :  48
+Epoch :  83
+Epoch :  233
+Epoch :  85
+Epoch :  86
+Epoch :  81
+Epoch :  78
+Epoch :  48
+Epoch :  60
+Epoch :  89
+Epoch :  129
+Epoch :  78
+Epoch :  41
+Epoch :  43
+Epoch :  1001
+Epoch :  73
+Epoch :  55
+Epoch :  55
+Epoch :  578
+Epoch :  294
+Epoch :  68
+Epoch :  60
+Epoch :  2534
+Epoch :  134
+Epoch :  58
+Epoch :  59
+Epoch :  62
+Epoch :  98
+Epoch :  34
+Epoch :  59
+Epoch :  61
+Epoch :  95
+Epoch :  47
+Epoch :  44
+Epoch :  59
+Epoch :  68
+Epoch :  325
+Epoch :  53
+Epoch :  75
+Epoch :  265
+Epoch :  2743
+Epoch :  71
+Epoch :  59
+Epoch :  75
+Epoch :  70
+Epoch :  1036
+Epoch :  72
+Epoch :  56
+Epoch :  73
+Epoch :  61
+Epoch :  64
+Epoch :  53
+Epoch :  41
+Epoch :  50
+Epoch :  68
+Epoch :  49
+Epoch :  62
+Epoch :  696
+Epoch :  142
+Epoch :  88
+Epoch :  43
+Epoch :  86
+Epoch :  68
+Epoch :  82
+Epoch :  71
+Epoch :  59
+Epoch :  180
+Epoch :  56
+Epoch :  70
+Epoch :  50
+Epoch :  66
+Epoch :  51
+Epoch :  55
+Epoch :  71
+Epoch :  72
+Epoch :  229
+Epoch :  83
+Epoch :  97
+Epoch :  50
+Epoch :  38
+Epoch :  49
+
+X0 :  0.5
+t :  0.5
+
+
+Number of times neural network did not converge :  16
+Average epochs :  177
+
+
+==================================================================================================
+
+For N1 :  10
+
+
+Epoch :  73
+Epoch :  36
+Epoch :  38
+Epoch :  77
+Epoch :  91
+Epoch :  102
+Epoch :  172
+Epoch :  80
+Epoch :  65
+Epoch :  66
+Epoch :  68
+Epoch :  763
+Epoch :  64
+Epoch :  65
+Epoch :  73
+Epoch :  60
+Epoch :  1834
+Epoch :  49
+Epoch :  63
+Epoch :  1309
+Epoch :  44
+Epoch :  42
+Epoch :  144
+Epoch :  42
+Epoch :  65
+Epoch :  71
+Epoch :  90
+Epoch :  2939
+Epoch :  409
+Epoch :  274
+Epoch :  71
+Epoch :  66
+Epoch :  44
+Epoch :  1117
+Epoch :  338
+Epoch :  83
+Epoch :  2822
+Epoch :  67
+Epoch :  93
+Epoch :  49
+Epoch :  61
+Epoch :  65
+Epoch :  49
+Epoch :  42
+Epoch :  58
+Epoch :  73
+Epoch :  62
+Epoch :  265
+Epoch :  72
+Epoch :  75
+Epoch :  60
+Epoch :  71
+Epoch :  127
+Epoch :  110
+Epoch :  64
+Epoch :  55
+Epoch :  77
+Epoch :  42
+Epoch :  39
+Epoch :  52
+Epoch :  50
+Epoch :  56
+Epoch :  84
+Epoch :  58
+Epoch :  55
+Epoch :  78
+Epoch :  1229
+Epoch :  349
+Epoch :  2682
+Epoch :  204
+Epoch :  89
+Epoch :  126
+Epoch :  880
+Epoch :  71
+Epoch :  297
+Epoch :  106
+Epoch :  37
+Epoch :  754
+Epoch :  230
+Epoch :  57
+Epoch :  60
+Epoch :  40
+Epoch :  65
+Epoch :  61
+Epoch :  59
+Epoch :  54
+Epoch :  174
+Epoch :  70
+Epoch :  50
+Epoch :  45
+Epoch :  97
+Epoch :  103
+
+X0 :  0.5
+t :  0.5
+
+
+Number of times neural network did not converge :  8
+Average epochs :  259
+
+
+==================================================================================================
+
+For N1 :  2
+
+
+Epoch :  606
+Epoch :  410
+Epoch :  681
+Epoch :  555
+Epoch :  381
+Epoch :  470
+Epoch :  386
+Epoch :  571
+Epoch :  389
+Epoch :  362
+Epoch :  436
+Epoch :  451
+Epoch :  420
+Epoch :  414
+Epoch :  646
+Epoch :  578
+Epoch :  419
+Epoch :  845
+Epoch :  370
+Epoch :  594
+Epoch :  577
+Epoch :  486
+Epoch :  390
+
+X0 :  1.0
+t :  0.5
+
+
+Number of times neural network did not converge :  77
+Average epochs :  497
+
+
+==================================================================================================
+
+For N1 :  4
+
+
+Epoch :  550
+Epoch :  430
+Epoch :  430
+Epoch :  441
+Epoch :  415
+Epoch :  362
+Epoch :  363
+Epoch :  317
+Epoch :  395
+Epoch :  565
+Epoch :  348
+Epoch :  480
+Epoch :  475
+Epoch :  380
+Epoch :  471
+Epoch :  367
+Epoch :  431
+Epoch :  349
+Epoch :  408
+Epoch :  307
+Epoch :  663
+Epoch :  357
+Epoch :  375
+Epoch :  442
+Epoch :  461
+Epoch :  324
+Epoch :  480
+Epoch :  409
+Epoch :  675
+Epoch :  369
+Epoch :  496
+Epoch :  515
+Epoch :  457
+Epoch :  403
+Epoch :  464
+Epoch :  350
+Epoch :  366
+
+X0 :  1.0
+t :  0.5
+
+
+Number of times neural network did not converge :  63
+Average epochs :  429
+
+
+==================================================================================================
+
+For N1 :  6
+
+
+Epoch :  534
+Epoch :  456
+Epoch :  416
+Epoch :  358
+Epoch :  374
+Epoch :  334
+Epoch :  256
+Epoch :  336
+Epoch :  340
+Epoch :  287
+Epoch :  392
+Epoch :  357
+Epoch :  688
+Epoch :  430
+Epoch :  272
+Epoch :  335
+Epoch :  313
+Epoch :  315
+Epoch :  392
+Epoch :  594
+Epoch :  351
+Epoch :  374
+Epoch :  407
+Epoch :  406
+Epoch :  366
+Epoch :  406
+Epoch :  403
+Epoch :  391
+Epoch :  348
+Epoch :  622
+Epoch :  557
+Epoch :  323
+Epoch :  415
+Epoch :  398
+Epoch :  361
+Epoch :  353
+Epoch :  351
+Epoch :  260
+Epoch :  346
+Epoch :  504
+Epoch :  359
+Epoch :  332
+Epoch :  473
+Epoch :  408
+Epoch :  402
+Epoch :  590
+Epoch :  341
+Epoch :  314
+Epoch :  478
+Epoch :  339
+Epoch :  334
+Epoch :  414
+Epoch :  524
+
+X0 :  1.0
+t :  0.5
+
+
+Number of times neural network did not converge :  47
+Average epochs :  396
+
+
+==================================================================================================
+
+For N1 :  8
+
+
+Epoch :  343
+Epoch :  676
+Epoch :  1014
+Epoch :  366
+Epoch :  318
+Epoch :  436
+Epoch :  281
+Epoch :  304
+Epoch :  349
+Epoch :  426
+Epoch :  393
+Epoch :  366
+Epoch :  267
+Epoch :  415
+Epoch :  315
+Epoch :  358
+Epoch :  259
+Epoch :  308
+Epoch :  360
+Epoch :  540
+Epoch :  409
+Epoch :  453
+Epoch :  354
+Epoch :  364
+Epoch :  471
+Epoch :  364
+Epoch :  361
+Epoch :  452
+Epoch :  391
+Epoch :  339
+Epoch :  454
+Epoch :  381
+Epoch :  276
+Epoch :  410
+Epoch :  281
+Epoch :  400
+Epoch :  500
+Epoch :  528
+Epoch :  329
+Epoch :  353
+Epoch :  459
+Epoch :  368
+Epoch :  345
+Epoch :  363
+Epoch :  433
+Epoch :  542
+Epoch :  426
+Epoch :  453
+Epoch :  343
+Epoch :  369
+Epoch :  335
+Epoch :  384
+Epoch :  299
+Epoch :  377
+Epoch :  631
+Epoch :  331
+Epoch :  426
+Epoch :  403
+Epoch :  272
+Epoch :  680
+Epoch :  433
+Epoch :  368
+Epoch :  435
+Epoch :  367
+Epoch :  348
+Epoch :  487
+Epoch :  359
+Epoch :  451
+Epoch :  374
+
+X0 :  1.0
+t :  0.5
+
+
+Number of times neural network did not converge :  31
+Average epochs :  403
+
+
+==================================================================================================
+
+For N1 :  10
+
+
+Epoch :  404
+Epoch :  588
+Epoch :  281
+Epoch :  674
+Epoch :  383
+Epoch :  352
+Epoch :  334
+Epoch :  675
+Epoch :  278
+Epoch :  446
+Epoch :  342
+Epoch :  275
+Epoch :  273
+Epoch :  266
+Epoch :  348
+Epoch :  464
+Epoch :  314
+Epoch :  327
+Epoch :  315
+Epoch :  306
+Epoch :  501
+Epoch :  426
+Epoch :  331
+Epoch :  644
+Epoch :  309
+Epoch :  347
+Epoch :  276
+Epoch :  428
+Epoch :  362
+Epoch :  323
+Epoch :  384
+Epoch :  338
+Epoch :  290
+Epoch :  395
+Epoch :  302
+Epoch :  311
+Epoch :  471
+Epoch :  353
+Epoch :  526
+Epoch :  338
+Epoch :  284
+Epoch :  397
+Epoch :  438
+Epoch :  306
+Epoch :  231
+Epoch :  358
+Epoch :  410
+Epoch :  377
+Epoch :  411
+Epoch :  305
+Epoch :  362
+Epoch :  314
+Epoch :  399
+Epoch :  391
+Epoch :  287
+Epoch :  430
+Epoch :  537
+Epoch :  426
+Epoch :  459
+Epoch :  397
+Epoch :  542
+Epoch :  265
+Epoch :  355
+Epoch :  291
+Epoch :  220
+Epoch :  573
+Epoch :  302
+Epoch :  355
+Epoch :  317
+Epoch :  438
+Epoch :  372
+Epoch :  371
+Epoch :  289
+Epoch :  356
+Epoch :  368
+Epoch :  321
+Epoch :  468
+Epoch :  363
+Epoch :  298
+Epoch :  303
+Epoch :  374
+
+X0 :  1.0
+t :  0.5
+
+
+Number of times neural network did not converge :  19
+Average epochs :  374
+
+
+==================================================================================================
+
+For N1 :  2
+
+
+Epoch :  1521
+Epoch :  1385
+Epoch :  1064
+Epoch :  1603
+Epoch :  1749
+Epoch :  1439
+Epoch :  1668
+Epoch :  1041
+Epoch :  1035
+Epoch :  1584
+Epoch :  1075
+Epoch :  2036
+Epoch :  2125
+Epoch :  1417
+Epoch :  2455
+Epoch :  1948
+Epoch :  1116
+Epoch :  1475
+Epoch :  1777
+Epoch :  1749
+Epoch :  1294
+Epoch :  1877
+Epoch :  858
+Epoch :  1325
+Epoch :  1352
+
+X0 :  1.5
+t :  0.5
+
+
+Number of times neural network did not converge :  75
+Average epochs :  1518
+
+
+==================================================================================================
+
+For N1 :  4
+
+
+Epoch :  1886
+Epoch :  1335
+Epoch :  1047
+Epoch :  1123
+Epoch :  2308
+Epoch :  1295
+Epoch :  1382
+Epoch :  1694
+Epoch :  1920
+Epoch :  1167
+Epoch :  951
+Epoch :  1454
+Epoch :  1827
+Epoch :  902
+Epoch :  1416
+Epoch :  1046
+Epoch :  1224
+Epoch :  1518
+Epoch :  1287
+Epoch :  1257
+Epoch :  972
+Epoch :  1154
+Epoch :  1942
+Epoch :  1964
+Epoch :  1128
+Epoch :  986
+Epoch :  1349
+Epoch :  955
+Epoch :  1108
+Epoch :  1945
+Epoch :  1186
+Epoch :  1854
+Epoch :  2193
+Epoch :  1027
+Epoch :  1291
+Epoch :  1181
+
+X0 :  1.5
+t :  0.5
+
+
+Number of times neural network did not converge :  64
+Average epochs :  1396
+
+
+==================================================================================================
+
+For N1 :  6
+
+
+Epoch :  1882
+Epoch :  1552
+Epoch :  1797
+Epoch :  904
+Epoch :  1513
+Epoch :  2037
+Epoch :  2025
+Epoch :  1062
+Epoch :  986
+Epoch :  1128
+Epoch :  1355
+Epoch :  1179
+Epoch :  2188
+Epoch :  1766
+Epoch :  1731
+Epoch :  1720
+Epoch :  1043
+Epoch :  1212
+Epoch :  1063
+Epoch :  1623
+Epoch :  1520
+Epoch :  2019
+Epoch :  1573
+Epoch :  910
+Epoch :  1111
+Epoch :  876
+Epoch :  1372
+Epoch :  1319
+Epoch :  1347
+Epoch :  1116
+Epoch :  1642
+Epoch :  1256
+Epoch :  1188
+Epoch :  1292
+Epoch :  1480
+Epoch :  1494
+Epoch :  1480
+Epoch :  1242
+Epoch :  1147
+Epoch :  941
+Epoch :  1068
+Epoch :  1863
+Epoch :  1294
+Epoch :  1529
+Epoch :  1299
+Epoch :  938
+Epoch :  2958
+Epoch :  1228
+Epoch :  931
+Epoch :  2196
+Epoch :  1397
+Epoch :  1502
+Epoch :  1283
+Epoch :  1066
+Epoch :  1351
+Epoch :  928
+Epoch :  2418
+
+X0 :  1.5
+t :  0.5
+
+
+Number of times neural network did not converge :  43
+Average epochs :  1427
+
+
+==================================================================================================
+
+For N1 :  8
+
+
+Epoch :  986
+Epoch :  1345
+Epoch :  1369
+Epoch :  1080
+Epoch :  1116
+Epoch :  1696
+Epoch :  1200
+Epoch :  978
+Epoch :  1269
+Epoch :  1348
+Epoch :  1135
+Epoch :  830
+Epoch :  955
+Epoch :  801
+Epoch :  1157
+Epoch :  780
+Epoch :  1043
+Epoch :  1123
+Epoch :  1321
+Epoch :  973
+Epoch :  1209
+Epoch :  989
+Epoch :  1493
+Epoch :  1294
+Epoch :  1743
+Epoch :  1031
+Epoch :  1049
+Epoch :  1051
+Epoch :  806
+Epoch :  681
+Epoch :  1409
+Epoch :  1059
+Epoch :  1016
+Epoch :  1419
+Epoch :  1215
+Epoch :  1374
+Epoch :  972
+Epoch :  1753
+Epoch :  1266
+Epoch :  728
+Epoch :  1436
+Epoch :  1943
+Epoch :  971
+Epoch :  1973
+Epoch :  1171
+Epoch :  1905
+Epoch :  1135
+Epoch :  1173
+Epoch :  2111
+Epoch :  1271
+Epoch :  1138
+Epoch :  1360
+Epoch :  1772
+Epoch :  1270
+Epoch :  1111
+Epoch :  781
+Epoch :  1038
+Epoch :  2221
+Epoch :  1128
+Epoch :  1280
+Epoch :  1263
+Epoch :  1915
+
+X0 :  1.5
+t :  0.5
+
+
+Number of times neural network did not converge :  38
+Average epochs :  1248
+
+
+==================================================================================================
+
+For N1 :  10
+
+
+Epoch :  808
+Epoch :  830
+Epoch :  1126
+Epoch :  1844
+Epoch :  995
+Epoch :  932
+Epoch :  1721
+Epoch :  1355
+Epoch :  1127
+Epoch :  914
+Epoch :  1216
+Epoch :  1775
+Epoch :  1142
+Epoch :  1101
+Epoch :  1440
+Epoch :  1136
+Epoch :  1134
+Epoch :  1154
+Epoch :  768
+Epoch :  1338
+Epoch :  847
+Epoch :  1393
+Epoch :  1100
+Epoch :  1909
+Epoch :  1015
+Epoch :  1044
+Epoch :  962
+Epoch :  2150
+Epoch :  1342
+Epoch :  1458
+Epoch :  968
+Epoch :  1676
+Epoch :  939
+Epoch :  1061
+Epoch :  1009
+Epoch :  2403
+Epoch :  851
+Epoch :  1206
+Epoch :  1082
+Epoch :  848
+Epoch :  1129
+Epoch :  1173
+Epoch :  1383
+Epoch :  2014
+Epoch :  1406
+Epoch :  1013
+Epoch :  868
+Epoch :  829
+Epoch :  1037
+Epoch :  901
+Epoch :  977
+Epoch :  1195
+Epoch :  839
+Epoch :  929
+Epoch :  1245
+Epoch :  1369
+Epoch :  1052
+Epoch :  782
+Epoch :  975
+Epoch :  1113
+Epoch :  1069
+Epoch :  944
+Epoch :  1049
+Epoch :  1646
+Epoch :  1315
+Epoch :  971
+Epoch :  961
+Epoch :  1227
+Epoch :  945
+Epoch :  992
+Epoch :  1137
+
+X0 :  1.5
+t :  0.5
+
+
+Number of times neural network did not converge :  29
+Average epochs :  1177
+
+
+==================================================================================================
+
+For N1 :  2
+
+
+Epoch :  70
+Epoch :  66
+Epoch :  283
+Epoch :  63
+Epoch :  67
+Epoch :  81
+Epoch :  126
+Epoch :  79
+Epoch :  99
+Epoch :  80
+Epoch :  87
+Epoch :  70
+Epoch :  87
+Epoch :  77
+Epoch :  64
+Epoch :  82
+Epoch :  63
+Epoch :  124
+Epoch :  86
+Epoch :  58
+Epoch :  91
+Epoch :  64
+Epoch :  991
+Epoch :  75
+Epoch :  69
+Epoch :  72
+Epoch :  79
+Epoch :  972
+Epoch :  74
+Epoch :  73
+Epoch :  82
+Epoch :  73
+Epoch :  69
+Epoch :  256
+Epoch :  67
+Epoch :  122
+Epoch :  72
+Epoch :  59
+Epoch :  102
+Epoch :  80
+Epoch :  97
+Epoch :  72
+Epoch :  72
+Epoch :  100
+Epoch :  81
+Epoch :  59
+Epoch :  76
+Epoch :  83
+Epoch :  74
+Epoch :  88
+Epoch :  78
+Epoch :  398
+Epoch :  81
+Epoch :  164
+Epoch :  107
+Epoch :  106
+Epoch :  106
+Epoch :  84
+Epoch :  82
+Epoch :  59
+Epoch :  119
+Epoch :  69
+Epoch :  59
+Epoch :  102
+Epoch :  69
+Epoch :  79
+Epoch :  97
+Epoch :  249
+Epoch :  119
+Epoch :  71
+Epoch :  64
+Epoch :  86
+Epoch :  132
+Epoch :  61
+
+X0 :  0.5
+t :  1.0
+
+
+Number of times neural network did not converge :  26
+Average epochs :  118
+
+
+==================================================================================================
+
+For N1 :  4
+
+
+Epoch :  51
+Epoch :  40
+Epoch :  59
+Epoch :  43
+Epoch :  40
+Epoch :  59
+Epoch :  52
+Epoch :  78
+Epoch :  47
+Epoch :  62
+Epoch :  43
+Epoch :  50
+Epoch :  62
+Epoch :  67
+Epoch :  137
+Epoch :  78
+Epoch :  48
+Epoch :  56
+Epoch :  29
+Epoch :  175
+Epoch :  93
+Epoch :  76
+Epoch :  46
+Epoch :  73
+Epoch :  103
+Epoch :  48
+Epoch :  44
+Epoch :  38
+Epoch :  51
+Epoch :  64
+Epoch :  168
+Epoch :  165
+Epoch :  98
+Epoch :  37
+Epoch :  37
+Epoch :  48
+Epoch :  108
+Epoch :  90
+Epoch :  83
+Epoch :  47
+Epoch :  61
+Epoch :  43
+Epoch :  73
+Epoch :  54
+Epoch :  74
+Epoch :  420
+Epoch :  49
+Epoch :  57
+Epoch :  64
+Epoch :  59
+Epoch :  53
+Epoch :  155
+Epoch :  47
+Epoch :  54
+Epoch :  33
+Epoch :  60
+Epoch :  49
+Epoch :  46
+Epoch :  94
+Epoch :  2361
+Epoch :  69
+Epoch :  60
+Epoch :  44
+Epoch :  52
+Epoch :  102
+Epoch :  49
+Epoch :  49
+Epoch :  53
+Epoch :  59
+Epoch :  47
+Epoch :  85
+Epoch :  68
+Epoch :  75
+Epoch :  63
+Epoch :  60
+Epoch :  56
+Epoch :  75
+Epoch :  46
+Epoch :  70
+Epoch :  91
+Epoch :  690
+Epoch :  58
+Epoch :  54
+Epoch :  71
+Epoch :  51
+Epoch :  49
+Epoch :  80
+Epoch :  163
+Epoch :  75
+Epoch :  48
+Epoch :  56
+Epoch :  56
+Epoch :  87
+Epoch :  1289
+Epoch :  182
+Epoch :  52
+Epoch :  46
+Epoch :  76
+Epoch :  50
+
+X0 :  0.5
+t :  1.0
+
+
+Number of times neural network did not converge :  1
+Average epochs :  113
+
+
+==================================================================================================
+
+For N1 :  6
+
+
+Epoch :  61
+Epoch :  77
+Epoch :  51
+Epoch :  35
+Epoch :  73
+Epoch :  43
+Epoch :  33
+Epoch :  38
+Epoch :  274
+Epoch :  56
+Epoch :  79
+Epoch :  32
+Epoch :  44
+Epoch :  46
+Epoch :  45
+Epoch :  67
+Epoch :  126
+Epoch :  37
+Epoch :  32
+Epoch :  50
+Epoch :  58
+Epoch :  38
+Epoch :  60
+Epoch :  62
+Epoch :  41
+Epoch :  28
+Epoch :  53
+Epoch :  178
+Epoch :  438
+Epoch :  103
+Epoch :  198
+Epoch :  55
+Epoch :  58
+Epoch :  35
+Epoch :  34
+Epoch :  52
+Epoch :  36
+Epoch :  51
+Epoch :  36
+Epoch :  37
+Epoch :  47
+Epoch :  32
+Epoch :  111
+Epoch :  29
+Epoch :  68
+Epoch :  41
+Epoch :  38
+Epoch :  46
+Epoch :  29
+Epoch :  53
+Epoch :  360
+Epoch :  62
+Epoch :  51
+Epoch :  599
+Epoch :  1079
+Epoch :  79
+Epoch :  27
+Epoch :  61
+Epoch :  36
+Epoch :  160
+Epoch :  42
+Epoch :  49
+Epoch :  52
+Epoch :  371
+Epoch :  23
+Epoch :  40
+Epoch :  242
+Epoch :  33
+Epoch :  137
+Epoch :  468
+Epoch :  121
+Epoch :  1486
+Epoch :  37
+Epoch :  46
+Epoch :  52
+Epoch :  47
+Epoch :  61
+Epoch :  47
+Epoch :  64
+Epoch :  749
+Epoch :  68
+Epoch :  48
+Epoch :  159
+Epoch :  76
+Epoch :  1648
+Epoch :  56
+Epoch :  53
+Epoch :  25
+Epoch :  189
+Epoch :  42
+Epoch :  30
+Epoch :  34
+Epoch :  43
+Epoch :  36
+Epoch :  40
+Epoch :  53
+Epoch :  90
+
+X0 :  0.5
+t :  1.0
+
+
+Number of times neural network did not converge :  3
+Average epochs :  132
+
+
+==================================================================================================
+
+For N1 :  8
+
+
+Epoch :  27
+Epoch :  31
+Epoch :  33
+Epoch :  30
+Epoch :  48
+Epoch :  27
+Epoch :  104
+Epoch :  26
+Epoch :  40
+Epoch :  199
+Epoch :  134
+Epoch :  51
+Epoch :  32
+Epoch :  86
+Epoch :  30
+Epoch :  58
+Epoch :  30
+Epoch :  29
+Epoch :  29
+Epoch :  806
+Epoch :  25
+Epoch :  43
+Epoch :  26
+Epoch :  33
+Epoch :  41
+Epoch :  54
+Epoch :  28
+Epoch :  84
+Epoch :  40
+Epoch :  335
+Epoch :  42
+Epoch :  2246
+Epoch :  222
+Epoch :  25
+Epoch :  37
+Epoch :  32
+Epoch :  44
+Epoch :  32
+Epoch :  28
+Epoch :  88
+Epoch :  146
+Epoch :  1450
+Epoch :  1204
+Epoch :  30
+Epoch :  28
+Epoch :  37
+Epoch :  2621
+Epoch :  80
+Epoch :  25
+Epoch :  41
+Epoch :  38
+Epoch :  49
+Epoch :  26
+Epoch :  26
+Epoch :  40
+Epoch :  51
+Epoch :  32
+Epoch :  32
+Epoch :  31
+Epoch :  35
+Epoch :  114
+Epoch :  32
+Epoch :  31
+Epoch :  191
+Epoch :  38
+Epoch :  75
+Epoch :  28
+Epoch :  28
+Epoch :  275
+Epoch :  42
+Epoch :  35
+Epoch :  329
+Epoch :  34
+Epoch :  28
+Epoch :  35
+Epoch :  36
+Epoch :  74
+Epoch :  577
+Epoch :  2281
+Epoch :  250
+Epoch :  40
+Epoch :  57
+Epoch :  57
+Epoch :  440
+Epoch :  30
+Epoch :  35
+Epoch :  131
+Epoch :  891
+Epoch :  90
+
+X0 :  0.5
+t :  1.0
+
+
+Number of times neural network did not converge :  11
+Average epochs :  198
+
+
+==================================================================================================
+
+For N1 :  10
+
+
+Epoch :  34
+Epoch :  1567
+Epoch :  30
+Epoch :  2256
+Epoch :  74
+Epoch :  28
+Epoch :  28
+Epoch :  26
+Epoch :  32
+Epoch :  111
+Epoch :  35
+Epoch :  26
+Epoch :  23
+Epoch :  20
+Epoch :  19
+Epoch :  20
+Epoch :  46
+Epoch :  436
+Epoch :  108
+Epoch :  29
+Epoch :  35
+Epoch :  38
+Epoch :  56
+Epoch :  27
+Epoch :  27
+Epoch :  32
+Epoch :  2417
+Epoch :  36
+Epoch :  35
+Epoch :  17
+Epoch :  463
+Epoch :  187
+Epoch :  28
+Epoch :  36
+Epoch :  21
+Epoch :  39
+Epoch :  91
+Epoch :  495
+Epoch :  273
+Epoch :  17
+Epoch :  27
+Epoch :  25
+Epoch :  30
+Epoch :  101
+Epoch :  32
+Epoch :  42
+Epoch :  1455
+Epoch :  47
+Epoch :  31
+Epoch :  30
+Epoch :  27
+Epoch :  26
+Epoch :  19
+Epoch :  20
+Epoch :  76
+Epoch :  41
+Epoch :  32
+Epoch :  341
+Epoch :  26
+Epoch :  146
+Epoch :  2410
+Epoch :  32
+Epoch :  37
+Epoch :  25
+Epoch :  23
+Epoch :  25
+Epoch :  36
+Epoch :  56
+Epoch :  26
+Epoch :  458
+Epoch :  29
+Epoch :  28
+Epoch :  29
+Epoch :  35
+Epoch :  31
+Epoch :  37
+Epoch :  312
+Epoch :  31
+Epoch :  35
+Epoch :  835
+Epoch :  109
+Epoch :  25
+Epoch :  28
+Epoch :  26
+
+X0 :  0.5
+t :  1.0
+
+
+Number of times neural network did not converge :  16
+Average epochs :  197
+
+
+==================================================================================================
+
+For N1 :  2
+
+
+Epoch :  323
+Epoch :  350
+Epoch :  336
+Epoch :  413
+Epoch :  391
+Epoch :  423
+Epoch :  350
+Epoch :  479
+Epoch :  401
+Epoch :  319
+Epoch :  343
+Epoch :  362
+Epoch :  309
+Epoch :  292
+Epoch :  283
+Epoch :  314
+Epoch :  305
+Epoch :  326
+Epoch :  301
+Epoch :  382
+Epoch :  406
+Epoch :  370
+Epoch :  353
+Epoch :  1121
+Epoch :  312
+Epoch :  275
+Epoch :  339
+Epoch :  308
+Epoch :  379
+Epoch :  333
+Epoch :  289
+Epoch :  255
+Epoch :  532
+Epoch :  330
+Epoch :  353
+Epoch :  301
+Epoch :  300
+Epoch :  284
+Epoch :  414
+Epoch :  459
+Epoch :  471
+Epoch :  358
+Epoch :  500
+Epoch :  328
+Epoch :  457
+Epoch :  296
+Epoch :  317
+Epoch :  321
+Epoch :  351
+Epoch :  275
+Epoch :  340
+Epoch :  282
+Epoch :  362
+Epoch :  347
+Epoch :  431
+Epoch :  367
+Epoch :  330
+Epoch :  409
+Epoch :  376
+Epoch :  400
+Epoch :  499
+Epoch :  308
+Epoch :  338
+Epoch :  351
+Epoch :  326
+Epoch :  311
+Epoch :  345
+Epoch :  331
+Epoch :  412
+Epoch :  405
+Epoch :  393
+Epoch :  317
+Epoch :  317
+Epoch :  372
+Epoch :  342
+Epoch :  347
+Epoch :  432
+Epoch :  281
+Epoch :  405
+Epoch :  409
+Epoch :  349
+Epoch :  390
+Epoch :  283
+Epoch :  389
+
+X0 :  1.0
+t :  1.0
+
+
+Number of times neural network did not converge :  16
+Average epochs :  365
+
+
+==================================================================================================
+
+For N1 :  4
+
+
+Epoch :  176
+Epoch :  230
+Epoch :  242
+Epoch :  261
+Epoch :  259
+Epoch :  204
+Epoch :  517
+Epoch :  324
+Epoch :  410
+Epoch :  228
+Epoch :  221
+Epoch :  279
+Epoch :  252
+Epoch :  469
+Epoch :  288
+Epoch :  220
+Epoch :  473
+Epoch :  255
+Epoch :  371
+Epoch :  244
+Epoch :  234
+Epoch :  259
+Epoch :  294
+Epoch :  248
+Epoch :  218
+Epoch :  234
+Epoch :  234
+Epoch :  235
+Epoch :  358
+Epoch :  225
+Epoch :  289
+Epoch :  252
+Epoch :  267
+Epoch :  281
+Epoch :  301
+Epoch :  264
+Epoch :  248
+Epoch :  250
+Epoch :  247
+Epoch :  225
+Epoch :  281
+Epoch :  207
+Epoch :  241
+Epoch :  195
+Epoch :  219
+Epoch :  264
+Epoch :  225
+Epoch :  229
+Epoch :  275
+Epoch :  239
+Epoch :  328
+Epoch :  248
+Epoch :  286
+Epoch :  230
+Epoch :  274
+Epoch :  227
+Epoch :  239
+Epoch :  237
+Epoch :  290
+Epoch :  238
+Epoch :  331
+Epoch :  207
+Epoch :  207
+Epoch :  196
+Epoch :  234
+Epoch :  223
+Epoch :  206
+Epoch :  240
+Epoch :  264
+Epoch :  204
+Epoch :  231
+Epoch :  302
+Epoch :  207
+Epoch :  310
+Epoch :  262
+Epoch :  277
+Epoch :  285
+Epoch :  298
+Epoch :  182
+Epoch :  253
+Epoch :  480
+Epoch :  311
+Epoch :  227
+Epoch :  297
+Epoch :  349
+Epoch :  256
+Epoch :  242
+Epoch :  171
+Epoch :  258
+Epoch :  199
+Epoch :  458
+Epoch :  197
+Epoch :  326
+Epoch :  289
+Epoch :  236
+Epoch :  232
+Epoch :  289
+Epoch :  312
+Epoch :  275
+
+X0 :  1.0
+t :  1.0
+
+
+Number of times neural network did not converge :  1
+Average epochs :  266
+
+
+==================================================================================================
+
+For N1 :  6
+
+
+Epoch :  293
+Epoch :  195
+Epoch :  225
+Epoch :  202
+Epoch :  249
+Epoch :  188
+Epoch :  269
+Epoch :  156
+Epoch :  311
+Epoch :  200
+Epoch :  225
+Epoch :  190
+Epoch :  256
+Epoch :  219
+Epoch :  215
+Epoch :  271
+Epoch :  221
+Epoch :  212
+Epoch :  230
+Epoch :  250
+Epoch :  166
+Epoch :  259
+Epoch :  210
+Epoch :  223
+Epoch :  218
+Epoch :  206
+Epoch :  253
+Epoch :  180
+Epoch :  163
+Epoch :  270
+Epoch :  244
+Epoch :  201
+Epoch :  189
+Epoch :  212
+Epoch :  219
+Epoch :  294
+Epoch :  408
+Epoch :  251
+Epoch :  222
+Epoch :  202
+Epoch :  244
+Epoch :  205
+Epoch :  236
+Epoch :  290
+Epoch :  278
+Epoch :  242
+Epoch :  157
+Epoch :  153
+Epoch :  253
+Epoch :  208
+Epoch :  243
+Epoch :  173
+Epoch :  193
+Epoch :  246
+Epoch :  192
+Epoch :  209
+Epoch :  238
+Epoch :  174
+Epoch :  195
+Epoch :  229
+Epoch :  166
+Epoch :  216
+Epoch :  206
+Epoch :  200
+Epoch :  222
+Epoch :  194
+Epoch :  263
+Epoch :  171
+Epoch :  164
+Epoch :  213
+Epoch :  178
+Epoch :  252
+Epoch :  236
+Epoch :  205
+Epoch :  178
+Epoch :  261
+Epoch :  185
+Epoch :  207
+Epoch :  210
+Epoch :  196
+Epoch :  246
+Epoch :  234
+Epoch :  276
+Epoch :  230
+Epoch :  195
+Epoch :  252
+Epoch :  188
+Epoch :  226
+Epoch :  259
+Epoch :  150
+Epoch :  182
+Epoch :  250
+Epoch :  222
+Epoch :  196
+Epoch :  237
+Epoch :  171
+Epoch :  230
+Epoch :  194
+Epoch :  212
+Epoch :  291
+
+X0 :  1.0
+t :  1.0
+
+
+Number of times neural network did not converge :  0
+Average epochs :  220
+
+
+==================================================================================================
+
+For N1 :  8
+
+
+Epoch :  163
+Epoch :  232
+Epoch :  217
+Epoch :  179
+Epoch :  238
+Epoch :  238
+Epoch :  202
+Epoch :  180
+Epoch :  213
+Epoch :  218
+Epoch :  1193
+Epoch :  227
+Epoch :  207
+Epoch :  169
+Epoch :  187
+Epoch :  166
+Epoch :  166
+Epoch :  180
+Epoch :  188
+Epoch :  203
+Epoch :  199
+Epoch :  398
+Epoch :  164
+Epoch :  165
+Epoch :  173
+Epoch :  155
+Epoch :  213
+Epoch :  218
+Epoch :  183
+Epoch :  194
+Epoch :  157
+Epoch :  232
+Epoch :  205
+Epoch :  174
+Epoch :  182
+Epoch :  185
+Epoch :  165
+Epoch :  160
+Epoch :  148
+Epoch :  193
+Epoch :  213
+Epoch :  169
+Epoch :  191
+Epoch :  160
+Epoch :  161
+Epoch :  179
+Epoch :  177
+Epoch :  221
+Epoch :  145
+Epoch :  180
+Epoch :  202
+Epoch :  176
+Epoch :  154
+Epoch :  180
+Epoch :  170
+Epoch :  165
+Epoch :  202
+Epoch :  174
+Epoch :  189
+Epoch :  209
+Epoch :  217
+Epoch :  183
+Epoch :  185
+Epoch :  146
+Epoch :  183
+Epoch :  157
+Epoch :  193
+Epoch :  199
+Epoch :  186
+Epoch :  199
+Epoch :  224
+Epoch :  240
+Epoch :  243
+Epoch :  177
+Epoch :  190
+Epoch :  180
+Epoch :  166
+Epoch :  188
+Epoch :  219
+Epoch :  172
+Epoch :  150
+Epoch :  200
+Epoch :  210
+Epoch :  170
+Epoch :  202
+Epoch :  233
+Epoch :  167
+Epoch :  218
+Epoch :  195
+Epoch :  246
+Epoch :  193
+Epoch :  181
+Epoch :  167
+Epoch :  165
+Epoch :  155
+Epoch :  163
+Epoch :  157
+Epoch :  222
+Epoch :  143
+Epoch :  253
+
+X0 :  1.0
+t :  1.0
+
+
+Number of times neural network did not converge :  0
+Average epochs :  200
+
+
+==================================================================================================
+
+For N1 :  10
+
+
+Epoch :  188
+Epoch :  146
+Epoch :  157
+Epoch :  149
+Epoch :  267
+Epoch :  168
+Epoch :  153
+Epoch :  249
+Epoch :  205
+Epoch :  177
+Epoch :  254
+Epoch :  152
+Epoch :  146
+Epoch :  192
+Epoch :  174
+Epoch :  160
+Epoch :  160
+Epoch :  154
+Epoch :  193
+Epoch :  160
+Epoch :  213
+Epoch :  186
+Epoch :  177
+Epoch :  191
+Epoch :  148
+Epoch :  133
+Epoch :  160
+Epoch :  155
+Epoch :  1729
+Epoch :  142
+Epoch :  210
+Epoch :  149
+Epoch :  180
+Epoch :  158
+Epoch :  149
+Epoch :  153
+Epoch :  151
+Epoch :  207
+Epoch :  138
+Epoch :  168
+Epoch :  174
+Epoch :  203
+Epoch :  148
+Epoch :  176
+Epoch :  164
+Epoch :  154
+Epoch :  169
+Epoch :  178
+Epoch :  163
+Epoch :  141
+Epoch :  170
+Epoch :  170
+Epoch :  137
+Epoch :  206
+Epoch :  201
+Epoch :  181
+Epoch :  160
+Epoch :  179
+Epoch :  155
+Epoch :  172
+Epoch :  178
+Epoch :  193
+Epoch :  166
+Epoch :  149
+Epoch :  172
+Epoch :  242
+Epoch :  259
+Epoch :  155
+Epoch :  160
+Epoch :  196
+Epoch :  158
+Epoch :  156
+Epoch :  196
+Epoch :  164
+Epoch :  184
+Epoch :  227
+Epoch :  147
+Epoch :  142
+Epoch :  211
+Epoch :  141
+Epoch :  204
+Epoch :  423
+Epoch :  176
+Epoch :  577
+Epoch :  185
+Epoch :  1496
+Epoch :  179
+Epoch :  200
+Epoch :  139
+Epoch :  165
+Epoch :  174
+Epoch :  160
+Epoch :  166
+Epoch :  177
+Epoch :  228
+Epoch :  171
+Epoch :  236
+Epoch :  214
+Epoch :  207
+
+X0 :  1.0
+t :  1.0
+
+
+Number of times neural network did not converge :  1
+Average epochs :  211
+
+
+==================================================================================================
+
+For N1 :  2
+
+
+Epoch :  1031
+Epoch :  1115
+Epoch :  1075
+Epoch :  888
+Epoch :  808
+Epoch :  690
+Epoch :  1012
+Epoch :  886
+Epoch :  1022
+Epoch :  835
+Epoch :  728
+Epoch :  756
+Epoch :  890
+Epoch :  729
+Epoch :  877
+Epoch :  837
+Epoch :  2319
+Epoch :  800
+Epoch :  1725
+Epoch :  748
+Epoch :  891
+Epoch :  765
+Epoch :  954
+Epoch :  775
+Epoch :  912
+Epoch :  787
+Epoch :  1005
+Epoch :  859
+Epoch :  787
+Epoch :  852
+Epoch :  719
+Epoch :  777
+Epoch :  661
+Epoch :  1282
+Epoch :  924
+Epoch :  808
+Epoch :  732
+Epoch :  779
+Epoch :  1132
+Epoch :  1010
+Epoch :  781
+Epoch :  957
+Epoch :  787
+Epoch :  904
+Epoch :  826
+Epoch :  988
+Epoch :  763
+Epoch :  895
+Epoch :  906
+Epoch :  947
+Epoch :  802
+Epoch :  1215
+Epoch :  740
+Epoch :  903
+Epoch :  711
+Epoch :  800
+Epoch :  950
+Epoch :  760
+Epoch :  778
+Epoch :  1522
+Epoch :  755
+Epoch :  1605
+Epoch :  893
+Epoch :  662
+Epoch :  1096
+Epoch :  770
+Epoch :  760
+Epoch :  842
+Epoch :  1061
+Epoch :  704
+Epoch :  1132
+Epoch :  844
+Epoch :  827
+Epoch :  1206
+Epoch :  895
+Epoch :  2425
+Epoch :  813
+Epoch :  748
+Epoch :  679
+Epoch :  744
+Epoch :  697
+Epoch :  1077
+Epoch :  1065
+Epoch :  1308
+Epoch :  1167
+Epoch :  731
+
+X0 :  1.5
+t :  1.0
+
+
+Number of times neural network did not converge :  14
+Average epochs :  937
+
+
+==================================================================================================
+
+For N1 :  4
+
+
+Epoch :  936
+Epoch :  601
+Epoch :  1132
+Epoch :  926
+Epoch :  751
+Epoch :  588
+Epoch :  1259
+Epoch :  643
+Epoch :  599
+Epoch :  726
+Epoch :  651
+Epoch :  821
+Epoch :  673
+Epoch :  703
+Epoch :  654
+Epoch :  566
+Epoch :  1565
+Epoch :  976
+Epoch :  667
+Epoch :  714
+Epoch :  731
+Epoch :  745
+Epoch :  611
+Epoch :  723
+Epoch :  743
+Epoch :  690
+Epoch :  634
+Epoch :  555
+Epoch :  891
+Epoch :  717
+Epoch :  594
+Epoch :  876
+Epoch :  805
+Epoch :  958
+Epoch :  804
+Epoch :  618
+Epoch :  625
+Epoch :  800
+Epoch :  743
+Epoch :  569
+Epoch :  1013
+Epoch :  1206
+Epoch :  623
+Epoch :  589
+Epoch :  1019
+Epoch :  638
+Epoch :  736
+Epoch :  552
+Epoch :  657
+Epoch :  687
+Epoch :  810
+Epoch :  596
+Epoch :  678
+Epoch :  737
+Epoch :  765
+Epoch :  659
+Epoch :  760
+Epoch :  727
+Epoch :  708
+Epoch :  652
+Epoch :  672
+Epoch :  782
+Epoch :  726
+Epoch :  645
+Epoch :  607
+Epoch :  550
+Epoch :  711
+Epoch :  545
+Epoch :  648
+Epoch :  621
+Epoch :  908
+Epoch :  797
+Epoch :  744
+Epoch :  972
+Epoch :  580
+Epoch :  886
+Epoch :  786
+Epoch :  849
+Epoch :  796
+Epoch :  1294
+Epoch :  604
+Epoch :  805
+Epoch :  718
+Epoch :  674
+Epoch :  578
+Epoch :  518
+Epoch :  512
+Epoch :  1013
+Epoch :  735
+Epoch :  732
+Epoch :  810
+Epoch :  809
+Epoch :  913
+Epoch :  645
+Epoch :  876
+Epoch :  619
+Epoch :  760
+Epoch :  524
+Epoch :  708
+
+X0 :  1.5
+t :  1.0
+
+
+Number of times neural network did not converge :  1
+Average epochs :  748
+
+
+==================================================================================================
+
+For N1 :  6
+
+
+Epoch :  657
+Epoch :  549
+Epoch :  737
+Epoch :  576
+Epoch :  557
+Epoch :  543
+Epoch :  700
+Epoch :  755
+Epoch :  700
+Epoch :  549
+Epoch :  886
+Epoch :  620
+Epoch :  532
+Epoch :  446
+Epoch :  627
+Epoch :  591
+Epoch :  591
+Epoch :  668
+Epoch :  741
+Epoch :  570
+Epoch :  691
+Epoch :  487
+Epoch :  681
+Epoch :  706
+Epoch :  653
+Epoch :  617
+Epoch :  614
+Epoch :  687
+Epoch :  520
+Epoch :  595
+Epoch :  652
+Epoch :  607
+Epoch :  684
+Epoch :  647
+Epoch :  698
+Epoch :  635
+Epoch :  587
+Epoch :  596
+Epoch :  649
+Epoch :  780
+Epoch :  480
+Epoch :  1384
+Epoch :  750
+Epoch :  700
+Epoch :  841
+Epoch :  628
+Epoch :  491
+Epoch :  549
+Epoch :  695
+Epoch :  448
+Epoch :  986
+Epoch :  558
+Epoch :  756
+Epoch :  1204
+Epoch :  597
+Epoch :  530
+Epoch :  653
+Epoch :  514
+Epoch :  724
+Epoch :  705
+Epoch :  693
+Epoch :  553
+Epoch :  496
+Epoch :  561
+Epoch :  629
+Epoch :  541
+Epoch :  516
+Epoch :  541
+Epoch :  588
+Epoch :  457
+Epoch :  733
+Epoch :  486
+Epoch :  634
+Epoch :  879
+Epoch :  612
+Epoch :  739
+Epoch :  617
+Epoch :  507
+Epoch :  555
+Epoch :  623
+Epoch :  549
+Epoch :  473
+Epoch :  695
+Epoch :  592
+Epoch :  629
+Epoch :  506
+Epoch :  876
+Epoch :  519
+Epoch :  518
+Epoch :  557
+Epoch :  560
+Epoch :  580
+Epoch :  594
+Epoch :  691
+Epoch :  756
+Epoch :  680
+Epoch :  546
+Epoch :  479
+Epoch :  480
+Epoch :  664
+
+X0 :  1.5
+t :  1.0
+
+
+Number of times neural network did not converge :  0
+Average epochs :  634
+
+
+==================================================================================================
+
+For N1 :  8
+
+
+Epoch :  586
+Epoch :  520
+Epoch :  483
+Epoch :  427
+Epoch :  527
+Epoch :  582
+Epoch :  553
+Epoch :  487
+Epoch :  466
+Epoch :  643
+Epoch :  551
+Epoch :  551
+Epoch :  478
+Epoch :  717
+Epoch :  534
+Epoch :  489
+Epoch :  656
+Epoch :  531
+Epoch :  597
+Epoch :  563
+Epoch :  485
+Epoch :  460
+Epoch :  551
+Epoch :  587
+Epoch :  573
+Epoch :  538
+Epoch :  591
+Epoch :  581
+Epoch :  557
+Epoch :  420
+Epoch :  502
+Epoch :  601
+Epoch :  553
+Epoch :  612
+Epoch :  489
+Epoch :  503
+Epoch :  628
+Epoch :  589
+Epoch :  437
+Epoch :  539
+Epoch :  573
+Epoch :  572
+Epoch :  494
+Epoch :  761
+Epoch :  562
+Epoch :  546
+Epoch :  561
+Epoch :  487
+Epoch :  601
+Epoch :  536
+Epoch :  598
+Epoch :  577
+Epoch :  506
+Epoch :  537
+Epoch :  730
+Epoch :  534
+Epoch :  677
+Epoch :  594
+Epoch :  449
+Epoch :  571
+Epoch :  461
+Epoch :  492
+Epoch :  707
+Epoch :  635
+Epoch :  608
+Epoch :  480
+Epoch :  544
+Epoch :  587
+Epoch :  535
+Epoch :  421
+Epoch :  471
+Epoch :  480
+Epoch :  699
+Epoch :  647
+Epoch :  568
+Epoch :  535
+Epoch :  603
+Epoch :  492
+Epoch :  485
+Epoch :  453
+Epoch :  613
+Epoch :  642
+Epoch :  433
+Epoch :  594
+Epoch :  765
+Epoch :  542
+Epoch :  512
+Epoch :  659
+Epoch :  493
+Epoch :  608
+Epoch :  612
+Epoch :  602
+Epoch :  603
+Epoch :  471
+Epoch :  554
+Epoch :  586
+Epoch :  485
+Epoch :  434
+Epoch :  526
+Epoch :  513
+
+X0 :  1.5
+t :  1.0
+
+
+Number of times neural network did not converge :  0
+Average epochs :  553
+
+
+==================================================================================================
+
+For N1 :  10
+
+
+Epoch :  590
+Epoch :  562
+Epoch :  459
+Epoch :  409
+Epoch :  539
+Epoch :  506
+Epoch :  508
+Epoch :  708
+Epoch :  493
+Epoch :  437
+Epoch :  515
+Epoch :  493
+Epoch :  498
+Epoch :  499
+Epoch :  552
+Epoch :  354
+Epoch :  451
+Epoch :  578
+Epoch :  449
+Epoch :  432
+Epoch :  570
+Epoch :  551
+Epoch :  515
+Epoch :  618
+Epoch :  548
+Epoch :  582
+Epoch :  423
+Epoch :  406
+Epoch :  630
+Epoch :  560
+Epoch :  644
+Epoch :  485
+Epoch :  461
+Epoch :  751
+Epoch :  456
+Epoch :  543
+Epoch :  503
+Epoch :  495
+Epoch :  514
+Epoch :  728
+Epoch :  422
+Epoch :  519
+Epoch :  470
+Epoch :  443
+Epoch :  493
+Epoch :  444
+Epoch :  586
+Epoch :  463
+Epoch :  469
+Epoch :  529
+Epoch :  530
+Epoch :  460
+Epoch :  449
+Epoch :  429
+Epoch :  602
+Epoch :  429
+Epoch :  587
+Epoch :  572
+Epoch :  517
+Epoch :  410
+Epoch :  407
+Epoch :  489
+Epoch :  417
+Epoch :  500
+Epoch :  632
+Epoch :  464
+Epoch :  650
+Epoch :  468
+Epoch :  608
+Epoch :  434
+Epoch :  585
+Epoch :  507
+Epoch :  549
+Epoch :  640
+Epoch :  435
+Epoch :  398
+Epoch :  422
+Epoch :  476
+Epoch :  619
+Epoch :  592
+Epoch :  408
+Epoch :  464
+Epoch :  585
+Epoch :  482
+Epoch :  502
+Epoch :  577
+Epoch :  483
+Epoch :  534
+Epoch :  489
+Epoch :  599
+Epoch :  518
+Epoch :  536
+Epoch :  582
+Epoch :  453
+Epoch :  470
+Epoch :  404
+Epoch :  410
+Epoch :  375
+Epoch :  623
+Epoch :  468
+
+X0 :  1.5
+t :  1.0
+
+
+Number of times neural network did not converge :  0
+Average epochs :  510
+
+
+==================================================================================================
+
+For N1 :  2
+
+
+Epoch :  87
+Epoch :  1097
+Epoch :  62
+Epoch :  248
+Epoch :  71
+Epoch :  95
+Epoch :  74
+Epoch :  106
+Epoch :  184
+Epoch :  52
+Epoch :  76
+Epoch :  119
+Epoch :  61
+Epoch :  68
+Epoch :  133
+Epoch :  57
+Epoch :  117
+Epoch :  99
+Epoch :  73
+Epoch :  80
+Epoch :  60
+Epoch :  209
+Epoch :  190
+Epoch :  247
+Epoch :  483
+Epoch :  70
+Epoch :  56
+Epoch :  70
+Epoch :  67
+Epoch :  61
+Epoch :  111
+Epoch :  81
+Epoch :  252
+Epoch :  76
+Epoch :  62
+Epoch :  73
+Epoch :  58
+Epoch :  97
+Epoch :  2325
+Epoch :  75
+Epoch :  51
+Epoch :  75
+Epoch :  218
+Epoch :  220
+Epoch :  64
+Epoch :  272
+Epoch :  43
+Epoch :  53
+Epoch :  103
+Epoch :  64
+Epoch :  125
+Epoch :  90
+Epoch :  170
+Epoch :  106
+Epoch :  1719
+Epoch :  55
+Epoch :  67
+Epoch :  120
+Epoch :  66
+Epoch :  226
+Epoch :  84
+Epoch :  57
+Epoch :  66
+Epoch :  74
+Epoch :  194
+Epoch :  81
+Epoch :  115
+Epoch :  109
+Epoch :  196
+Epoch :  278
+
+X0 :  0.5
+t :  1.5
+
+
+Number of times neural network did not converge :  30
+Average epochs :  183
+
+
+==================================================================================================
+
+For N1 :  4
+
+
+Epoch :  47
+Epoch :  42
+Epoch :  57
+Epoch :  41
+Epoch :  46
+Epoch :  50
+Epoch :  35
+Epoch :  41
+Epoch :  180
+Epoch :  55
+Epoch :  47
+Epoch :  63
+Epoch :  41
+Epoch :  36
+Epoch :  355
+Epoch :  244
+Epoch :  92
+Epoch :  42
+Epoch :  81
+Epoch :  97
+Epoch :  49
+Epoch :  31
+Epoch :  29
+Epoch :  23
+Epoch :  75
+Epoch :  68
+Epoch :  42
+Epoch :  1203
+Epoch :  44
+Epoch :  39
+Epoch :  513
+Epoch :  57
+Epoch :  53
+Epoch :  51
+Epoch :  51
+Epoch :  1128
+Epoch :  30
+Epoch :  34
+Epoch :  55
+Epoch :  70
+Epoch :  49
+Epoch :  46
+Epoch :  24
+Epoch :  136
+Epoch :  35
+Epoch :  41
+Epoch :  52
+Epoch :  49
+Epoch :  43
+Epoch :  113
+Epoch :  36
+Epoch :  138
+Epoch :  41
+Epoch :  40
+Epoch :  186
+Epoch :  50
+Epoch :  44
+Epoch :  42
+Epoch :  415
+Epoch :  40
+Epoch :  41
+Epoch :  1388
+Epoch :  1742
+Epoch :  50
+Epoch :  78
+Epoch :  40
+Epoch :  53
+Epoch :  45
+Epoch :  29
+Epoch :  193
+Epoch :  49
+Epoch :  75
+Epoch :  47
+Epoch :  89
+Epoch :  77
+Epoch :  80
+Epoch :  43
+Epoch :  301
+Epoch :  39
+Epoch :  39
+Epoch :  254
+Epoch :  56
+Epoch :  54
+Epoch :  39
+Epoch :  46
+Epoch :  48
+Epoch :  37
+Epoch :  52
+Epoch :  90
+Epoch :  206
+Epoch :  68
+Epoch :  210
+Epoch :  39
+Epoch :  66
+Epoch :  24
+
+X0 :  0.5
+t :  1.5
+
+
+Number of times neural network did not converge :  5
+Average epochs :  134
+
+
+==================================================================================================
+
+For N1 :  6
+
+
+Epoch :  30
+Epoch :  39
+Epoch :  702
+Epoch :  1447
+Epoch :  16
+Epoch :  33
+Epoch :  29
+Epoch :  46
+Epoch :  43
+Epoch :  30
+Epoch :  44
+Epoch :  115
+Epoch :  523
+Epoch :  28
+Epoch :  11
+Epoch :  1237
+Epoch :  116
+Epoch :  2014
+Epoch :  107
+Epoch :  73
+Epoch :  31
+Epoch :  15
+Epoch :  381
+Epoch :  25
+Epoch :  48
+Epoch :  29
+Epoch :  396
+Epoch :  27
+Epoch :  29
+Epoch :  31
+Epoch :  41
+Epoch :  34
+Epoch :  47
+Epoch :  48
+Epoch :  23
+Epoch :  65
+Epoch :  66
+Epoch :  222
+Epoch :  26
+Epoch :  53
+Epoch :  239
+Epoch :  91
+Epoch :  32
+Epoch :  31
+Epoch :  31
+Epoch :  21
+Epoch :  34
+Epoch :  17
+Epoch :  93
+Epoch :  52
+Epoch :  45
+Epoch :  82
+Epoch :  46
+Epoch :  27
+Epoch :  31
+Epoch :  368
+Epoch :  33
+Epoch :  35
+Epoch :  25
+Epoch :  24
+Epoch :  30
+Epoch :  33
+Epoch :  230
+Epoch :  31
+Epoch :  28
+Epoch :  372
+Epoch :  33
+Epoch :  17
+Epoch :  141
+Epoch :  38
+Epoch :  2956
+Epoch :  2338
+Epoch :  38
+Epoch :  34
+Epoch :  4
+Epoch :  55
+Epoch :  17
+Epoch :  28
+Epoch :  281
+Epoch :  59
+Epoch :  17
+Epoch :  22
+Epoch :  39
+Epoch :  36
+
+X0 :  0.5
+t :  1.5
+
+
+Number of times neural network did not converge :  16
+Average epochs :  197
+
+
+==================================================================================================
+
+For N1 :  8
+
+
+Epoch :  39
+Epoch :  2936
+Epoch :  28
+Epoch :  83
+Epoch :  290
+Epoch :  15
+Epoch :  67
+Epoch :  1420
+Epoch :  30
+Epoch :  47
+Epoch :  13
+Epoch :  52
+Epoch :  31
+Epoch :  30
+Epoch :  60
+Epoch :  21
+Epoch :  395
+Epoch :  29
+Epoch :  17
+Epoch :  58
+Epoch :  234
+Epoch :  42
+Epoch :  47
+Epoch :  2700
+Epoch :  182
+Epoch :  10
+Epoch :  93
+Epoch :  223
+Epoch :  16
+Epoch :  378
+Epoch :  37
+Epoch :  15
+Epoch :  30
+Epoch :  49
+Epoch :  21
+Epoch :  25
+Epoch :  146
+Epoch :  72
+Epoch :  171
+Epoch :  1205
+Epoch :  730
+Epoch :  28
+Epoch :  58
+Epoch :  360
+Epoch :  18
+Epoch :  44
+Epoch :  25
+Epoch :  28
+Epoch :  18
+Epoch :  12
+Epoch :  22
+Epoch :  14
+Epoch :  19
+Epoch :  253
+Epoch :  29
+Epoch :  18
+Epoch :  323
+Epoch :  34
+Epoch :  65
+Epoch :  28
+Epoch :  7
+Epoch :  176
+Epoch :  18
+Epoch :  36
+Epoch :  209
+Epoch :  92
+Epoch :  5
+Epoch :  27
+Epoch :  20
+Epoch :  70
+Epoch :  2440
+Epoch :  31
+Epoch :  45
+Epoch :  1171
+Epoch :  33
+Epoch :  47
+Epoch :  143
+Epoch :  39
+Epoch :  812
+Epoch :  2999
+Epoch :  13
+
+X0 :  0.5
+t :  1.5
+
+
+Number of times neural network did not converge :  19
+Average epochs :  270
+
+
+==================================================================================================
+
+For N1 :  10
+
+
+Epoch :  589
+Epoch :  17
+Epoch :  11
+Epoch :  27
+Epoch :  33
+Epoch :  15
+Epoch :  7
+Epoch :  4
+Epoch :  466
+Epoch :  7
+Epoch :  16
+Epoch :  20
+Epoch :  85
+Epoch :  131
+Epoch :  662
+Epoch :  1180
+Epoch :  16
+Epoch :  137
+Epoch :  45
+Epoch :  369
+Epoch :  5
+Epoch :  402
+Epoch :  22
+Epoch :  17
+Epoch :  17
+Epoch :  41
+Epoch :  56
+Epoch :  88
+Epoch :  84
+Epoch :  862
+Epoch :  52
+Epoch :  1525
+Epoch :  128
+Epoch :  15
+Epoch :  143
+Epoch :  293
+Epoch :  37
+Epoch :  441
+Epoch :  4
+Epoch :  6
+Epoch :  13
+Epoch :  71
+Epoch :  454
+Epoch :  41
+Epoch :  15
+Epoch :  2263
+Epoch :  2653
+Epoch :  48
+Epoch :  11
+Epoch :  13
+Epoch :  40
+Epoch :  120
+Epoch :  30
+Epoch :  1048
+Epoch :  4
+Epoch :  6
+Epoch :  4
+Epoch :  56
+Epoch :  13
+Epoch :  40
+Epoch :  99
+Epoch :  29
+Epoch :  9
+Epoch :  13
+Epoch :  52
+Epoch :  33
+Epoch :  18
+Epoch :  10
+Epoch :  20
+Epoch :  6
+Epoch :  1342
+Epoch :  7
+Epoch :  10
+Epoch :  3
+
+X0 :  0.5
+t :  1.5
+
+
+Number of times neural network did not converge :  26
+Average epochs :  225
+
+
+==================================================================================================
+
+For N1 :  2
+
+
+Epoch :  317
+Epoch :  327
+Epoch :  351
+Epoch :  261
+Epoch :  489
+Epoch :  314
+Epoch :  302
+Epoch :  367
+Epoch :  408
+Epoch :  296
+Epoch :  263
+Epoch :  368
+Epoch :  261
+Epoch :  293
+Epoch :  368
+Epoch :  279
+Epoch :  285
+Epoch :  399
+Epoch :  358
+Epoch :  287
+Epoch :  281
+Epoch :  327
+Epoch :  320
+Epoch :  400
+Epoch :  313
+Epoch :  300
+Epoch :  360
+Epoch :  272
+Epoch :  323
+Epoch :  313
+Epoch :  257
+Epoch :  275
+Epoch :  332
+Epoch :  261
+Epoch :  280
+Epoch :  393
+Epoch :  284
+Epoch :  435
+Epoch :  262
+Epoch :  320
+Epoch :  338
+Epoch :  479
+Epoch :  312
+Epoch :  275
+Epoch :  297
+Epoch :  322
+Epoch :  278
+Epoch :  348
+Epoch :  308
+Epoch :  399
+Epoch :  293
+Epoch :  310
+Epoch :  254
+Epoch :  309
+Epoch :  506
+Epoch :  284
+Epoch :  327
+Epoch :  283
+Epoch :  424
+Epoch :  308
+Epoch :  610
+Epoch :  285
+Epoch :  273
+Epoch :  319
+Epoch :  330
+Epoch :  304
+Epoch :  310
+Epoch :  362
+Epoch :  301
+Epoch :  559
+Epoch :  334
+Epoch :  313
+Epoch :  359
+Epoch :  252
+
+X0 :  1.0
+t :  1.5
+
+
+Number of times neural network did not converge :  26
+Average epochs :  330
+
+
+==================================================================================================
+
+For N1 :  4
+
+
+Epoch :  221
+Epoch :  191
+Epoch :  230
+Epoch :  315
+Epoch :  240
+Epoch :  245
+Epoch :  197
+Epoch :  248
+Epoch :  247
+Epoch :  275
+Epoch :  227
+Epoch :  225
+Epoch :  242
+Epoch :  234
+Epoch :  240
+Epoch :  218
+Epoch :  221
+Epoch :  230
+Epoch :  167
+Epoch :  248
+Epoch :  203
+Epoch :  161
+Epoch :  185
+Epoch :  225
+Epoch :  502
+Epoch :  222
+Epoch :  233
+Epoch :  286
+Epoch :  258
+Epoch :  291
+Epoch :  229
+Epoch :  150
+Epoch :  226
+Epoch :  285
+Epoch :  240
+Epoch :  202
+Epoch :  294
+Epoch :  230
+Epoch :  230
+Epoch :  248
+Epoch :  180
+Epoch :  171
+Epoch :  190
+Epoch :  212
+Epoch :  248
+Epoch :  280
+Epoch :  220
+Epoch :  273
+Epoch :  170
+Epoch :  259
+Epoch :  234
+Epoch :  247
+Epoch :  228
+Epoch :  263
+Epoch :  245
+Epoch :  213
+Epoch :  268
+Epoch :  902
+Epoch :  262
+Epoch :  251
+Epoch :  235
+Epoch :  224
+Epoch :  214
+Epoch :  220
+Epoch :  227
+Epoch :  210
+Epoch :  220
+Epoch :  193
+Epoch :  208
+Epoch :  233
+Epoch :  239
+Epoch :  158
+Epoch :  233
+Epoch :  258
+Epoch :  177
+Epoch :  165
+Epoch :  212
+Epoch :  245
+Epoch :  220
+Epoch :  189
+Epoch :  275
+Epoch :  211
+Epoch :  254
+Epoch :  166
+Epoch :  257
+Epoch :  203
+Epoch :  201
+Epoch :  205
+Epoch :  290
+Epoch :  231
+Epoch :  229
+Epoch :  209
+Epoch :  240
+Epoch :  204
+Epoch :  221
+Epoch :  193
+Epoch :  236
+Epoch :  224
+Epoch :  231
+
+X0 :  1.0
+t :  1.5
+
+
+Number of times neural network did not converge :  1
+Average epochs :  236
+
+
+==================================================================================================
+
+For N1 :  6
+
+
+Epoch :  180
+Epoch :  184
+Epoch :  130
+Epoch :  752
+Epoch :  178
+Epoch :  182
+Epoch :  223
+Epoch :  166
+Epoch :  182
+Epoch :  147
+Epoch :  220
+Epoch :  143
+Epoch :  185
+Epoch :  219
+Epoch :  138
+Epoch :  164
+Epoch :  372
+Epoch :  212
+Epoch :  233
+Epoch :  140
+Epoch :  186
+Epoch :  162
+Epoch :  189
+Epoch :  182
+Epoch :  184
+Epoch :  176
+Epoch :  188
+Epoch :  163
+Epoch :  151
+Epoch :  168
+Epoch :  136
+Epoch :  206
+Epoch :  153
+Epoch :  212
+Epoch :  192
+Epoch :  162
+Epoch :  208
+Epoch :  167
+Epoch :  166
+Epoch :  157
+Epoch :  199
+Epoch :  181
+Epoch :  147
+Epoch :  2498
+Epoch :  162
+Epoch :  244
+Epoch :  159
+Epoch :  181
+Epoch :  151
+Epoch :  241
+Epoch :  173
+Epoch :  129
+Epoch :  367
+Epoch :  208
+Epoch :  205
+Epoch :  874
+Epoch :  213
+Epoch :  179
+Epoch :  198
+Epoch :  171
+Epoch :  179
+Epoch :  181
+Epoch :  183
+Epoch :  160
+Epoch :  134
+Epoch :  190
+Epoch :  195
+Epoch :  221
+Epoch :  168
+Epoch :  161
+Epoch :  190
+Epoch :  235
+Epoch :  182
+Epoch :  203
+Epoch :  134
+Epoch :  150
+Epoch :  193
+Epoch :  183
+Epoch :  190
+Epoch :  200
+Epoch :  191
+Epoch :  201
+Epoch :  211
+Epoch :  218
+Epoch :  180
+Epoch :  186
+Epoch :  146
+Epoch :  180
+Epoch :  137
+Epoch :  177
+Epoch :  119
+Epoch :  443
+Epoch :  166
+Epoch :  142
+Epoch :  340
+Epoch :  135
+
+X0 :  1.0
+t :  1.5
+
+
+Number of times neural network did not converge :  4
+Average epochs :  224
+
+
+==================================================================================================
+
+For N1 :  8
+
+
+Epoch :  126
+Epoch :  143
+Epoch :  135
+Epoch :  147
+Epoch :  671
+Epoch :  198
+Epoch :  137
+Epoch :  154
+Epoch :  241
+Epoch :  132
+Epoch :  147
+Epoch :  151
+Epoch :  1045
+Epoch :  234
+Epoch :  156
+Epoch :  170
+Epoch :  151
+Epoch :  139
+Epoch :  147
+Epoch :  149
+Epoch :  124
+Epoch :  175
+Epoch :  146
+Epoch :  137
+Epoch :  1154
+Epoch :  176
+Epoch :  171
+Epoch :  157
+Epoch :  124
+Epoch :  150
+Epoch :  153
+Epoch :  220
+Epoch :  169
+Epoch :  147
+Epoch :  165
+Epoch :  131
+Epoch :  117
+Epoch :  187
+Epoch :  137
+Epoch :  131
+Epoch :  119
+Epoch :  210
+Epoch :  288
+Epoch :  152
+Epoch :  207
+Epoch :  156
+Epoch :  192
+Epoch :  205
+Epoch :  137
+Epoch :  145
+Epoch :  143
+Epoch :  157
+Epoch :  192
+Epoch :  362
+Epoch :  1284
+Epoch :  138
+Epoch :  151
+Epoch :  160
+Epoch :  133
+Epoch :  220
+Epoch :  149
+Epoch :  277
+Epoch :  155
+Epoch :  203
+Epoch :  127
+Epoch :  174
+Epoch :  145
+Epoch :  142
+Epoch :  1889
+Epoch :  153
+Epoch :  132
+Epoch :  177
+Epoch :  2263
+Epoch :  126
+Epoch :  128
+Epoch :  147
+Epoch :  293
+Epoch :  194
+Epoch :  154
+Epoch :  131
+Epoch :  142
+Epoch :  160
+Epoch :  180
+Epoch :  171
+Epoch :  140
+Epoch :  118
+Epoch :  134
+Epoch :  633
+Epoch :  147
+Epoch :  153
+Epoch :  173
+Epoch :  173
+Epoch :  136
+Epoch :  134
+Epoch :  127
+
+X0 :  1.0
+t :  1.5
+
+
+Number of times neural network did not converge :  5
+Average epochs :  245
+
+
+==================================================================================================
+
+For N1 :  10
+
+
+Epoch :  202
+Epoch :  150
+Epoch :  157
+Epoch :  146
+Epoch :  144
+Epoch :  147
+Epoch :  113
+Epoch :  137
+Epoch :  127
+Epoch :  118
+Epoch :  2340
+Epoch :  170
+Epoch :  549
+Epoch :  158
+Epoch :  149
+Epoch :  150
+Epoch :  143
+Epoch :  150
+Epoch :  219
+Epoch :  160
+Epoch :  118
+Epoch :  195
+Epoch :  118
+Epoch :  130
+Epoch :  141
+Epoch :  239
+Epoch :  116
+Epoch :  134
+Epoch :  684
+Epoch :  159
+Epoch :  135
+Epoch :  124
+Epoch :  115
+Epoch :  172
+Epoch :  145
+Epoch :  159
+Epoch :  126
+Epoch :  135
+Epoch :  143
+Epoch :  143
+Epoch :  119
+Epoch :  108
+Epoch :  257
+Epoch :  155
+Epoch :  136
+Epoch :  143
+Epoch :  123
+Epoch :  147
+Epoch :  120
+Epoch :  1956
+Epoch :  138
+Epoch :  107
+Epoch :  136
+Epoch :  126
+Epoch :  124
+Epoch :  167
+Epoch :  136
+Epoch :  127
+Epoch :  111
+Epoch :  124
+Epoch :  145
+Epoch :  168
+Epoch :  129
+Epoch :  120
+Epoch :  143
+Epoch :  135
+Epoch :  803
+Epoch :  291
+Epoch :  1221
+Epoch :  156
+Epoch :  128
+Epoch :  125
+Epoch :  115
+Epoch :  146
+Epoch :  130
+Epoch :  149
+Epoch :  160
+Epoch :  115
+Epoch :  197
+Epoch :  266
+Epoch :  124
+Epoch :  133
+Epoch :  1653
+Epoch :  275
+Epoch :  144
+Epoch :  147
+Epoch :  280
+Epoch :  121
+Epoch :  112
+Epoch :  190
+Epoch :  132
+Epoch :  145
+Epoch :  143
+
+X0 :  1.0
+t :  1.5
+
+
+Number of times neural network did not converge :  7
+Average epochs :  237
+
+
+==================================================================================================
+
+For N1 :  2
+
+
+Epoch :  765
+Epoch :  755
+Epoch :  1120
+Epoch :  780
+Epoch :  664
+Epoch :  784
+Epoch :  955
+Epoch :  859
+Epoch :  662
+Epoch :  651
+Epoch :  827
+Epoch :  725
+Epoch :  836
+Epoch :  662
+Epoch :  703
+Epoch :  701
+Epoch :  696
+Epoch :  700
+Epoch :  667
+Epoch :  674
+Epoch :  698
+Epoch :  867
+Epoch :  659
+Epoch :  684
+Epoch :  1921
+Epoch :  682
+Epoch :  767
+Epoch :  781
+Epoch :  979
+Epoch :  811
+Epoch :  691
+Epoch :  648
+Epoch :  720
+Epoch :  714
+Epoch :  890
+Epoch :  668
+Epoch :  838
+Epoch :  698
+Epoch :  676
+Epoch :  722
+Epoch :  817
+Epoch :  773
+Epoch :  746
+Epoch :  784
+Epoch :  783
+Epoch :  845
+Epoch :  629
+Epoch :  733
+Epoch :  728
+Epoch :  922
+Epoch :  813
+Epoch :  747
+Epoch :  692
+Epoch :  1055
+Epoch :  667
+Epoch :  659
+Epoch :  622
+Epoch :  745
+Epoch :  788
+Epoch :  646
+Epoch :  1258
+Epoch :  1062
+Epoch :  1371
+Epoch :  713
+Epoch :  778
+Epoch :  621
+Epoch :  761
+Epoch :  689
+Epoch :  830
+Epoch :  700
+Epoch :  837
+Epoch :  664
+Epoch :  693
+Epoch :  703
+Epoch :  707
+Epoch :  778
+Epoch :  867
+Epoch :  634
+Epoch :  589
+Epoch :  697
+
+X0 :  1.5
+t :  1.5
+
+
+Number of times neural network did not converge :  20
+Average epochs :  780
+
+
+==================================================================================================
+
+For N1 :  4
+
+
+Epoch :  508
+Epoch :  655
+Epoch :  545
+Epoch :  633
+Epoch :  576
+Epoch :  747
+Epoch :  650
+Epoch :  576
+Epoch :  560
+Epoch :  456
+Epoch :  505
+Epoch :  599
+Epoch :  658
+Epoch :  532
+Epoch :  547
+Epoch :  650
+Epoch :  475
+Epoch :  467
+Epoch :  409
+Epoch :  620
+Epoch :  642
+Epoch :  416
+Epoch :  635
+Epoch :  671
+Epoch :  482
+Epoch :  539
+Epoch :  385
+Epoch :  348
+Epoch :  581
+Epoch :  472
+Epoch :  430
+Epoch :  552
+Epoch :  628
+Epoch :  550
+Epoch :  546
+Epoch :  668
+Epoch :  523
+Epoch :  560
+Epoch :  597
+Epoch :  482
+Epoch :  598
+Epoch :  562
+Epoch :  457
+Epoch :  450
+Epoch :  739
+Epoch :  710
+Epoch :  596
+Epoch :  667
+Epoch :  558
+Epoch :  609
+Epoch :  615
+Epoch :  692
+Epoch :  664
+Epoch :  535
+Epoch :  537
+Epoch :  671
+Epoch :  1299
+Epoch :  569
+Epoch :  569
+Epoch :  558
+Epoch :  566
+Epoch :  466
+Epoch :  536
+Epoch :  733
+Epoch :  525
+Epoch :  602
+Epoch :  562
+Epoch :  412
+Epoch :  699
+Epoch :  620
+Epoch :  691
+Epoch :  600
+Epoch :  717
+Epoch :  554
+Epoch :  689
+Epoch :  579
+Epoch :  532
+Epoch :  525
+Epoch :  556
+Epoch :  610
+Epoch :  555
+Epoch :  562
+Epoch :  630
+Epoch :  623
+Epoch :  358
+Epoch :  508
+Epoch :  615
+Epoch :  691
+Epoch :  446
+Epoch :  568
+Epoch :  572
+Epoch :  581
+Epoch :  440
+Epoch :  493
+Epoch :  530
+Epoch :  636
+Epoch :  591
+Epoch :  609
+Epoch :  489
+Epoch :  425
+
+X0 :  1.5
+t :  1.5
+
+
+Number of times neural network did not converge :  0
+Average epochs :  574
+
+
+==================================================================================================
+
+For N1 :  6
+
+
+Epoch :  400
+Epoch :  420
+Epoch :  582
+Epoch :  390
+Epoch :  465
+Epoch :  475
+Epoch :  372
+Epoch :  515
+Epoch :  461
+Epoch :  510
+Epoch :  458
+Epoch :  596
+Epoch :  619
+Epoch :  425
+Epoch :  461
+Epoch :  616
+Epoch :  609
+Epoch :  561
+Epoch :  565
+Epoch :  438
+Epoch :  451
+Epoch :  441
+Epoch :  343
+Epoch :  359
+Epoch :  418
+Epoch :  371
+Epoch :  430
+Epoch :  488
+Epoch :  360
+Epoch :  532
+Epoch :  515
+Epoch :  399
+Epoch :  353
+Epoch :  470
+Epoch :  497
+Epoch :  459
+Epoch :  393
+Epoch :  518
+Epoch :  367
+Epoch :  469
+Epoch :  563
+Epoch :  395
+Epoch :  477
+Epoch :  435
+Epoch :  560
+Epoch :  453
+Epoch :  456
+Epoch :  546
+Epoch :  639
+Epoch :  490
+Epoch :  479
+Epoch :  378
+Epoch :  334
+Epoch :  367
+Epoch :  599
+Epoch :  503
+Epoch :  556
+Epoch :  433
+Epoch :  383
+Epoch :  536
+Epoch :  428
+Epoch :  435
+Epoch :  548
+Epoch :  550
+Epoch :  387
+Epoch :  565
+Epoch :  689
+Epoch :  536
+Epoch :  491
+Epoch :  462
+Epoch :  616
+Epoch :  451
+Epoch :  484
+Epoch :  587
+Epoch :  447
+Epoch :  548
+Epoch :  555
+Epoch :  416
+Epoch :  438
+Epoch :  508
+Epoch :  355
+Epoch :  587
+Epoch :  562
+Epoch :  460
+Epoch :  489
+Epoch :  402
+Epoch :  473
+Epoch :  653
+Epoch :  439
+Epoch :  484
+Epoch :  389
+Epoch :  540
+Epoch :  549
+Epoch :  585
+Epoch :  542
+Epoch :  425
+Epoch :  392
+Epoch :  565
+Epoch :  521
+Epoch :  542
+
+X0 :  1.5
+t :  1.5
+
+
+Number of times neural network did not converge :  0
+Average epochs :  482
+
+
+==================================================================================================
+
+For N1 :  8
+
+
+Epoch :  433
+Epoch :  464
+Epoch :  584
+Epoch :  411
+Epoch :  439
+Epoch :  420
+Epoch :  551
+Epoch :  338
+Epoch :  493
+Epoch :  465
+Epoch :  324
+Epoch :  399
+Epoch :  459
+Epoch :  446
+Epoch :  380
+Epoch :  415
+Epoch :  451
+Epoch :  369
+Epoch :  353
+Epoch :  548
+Epoch :  373
+Epoch :  440
+Epoch :  381
+Epoch :  402
+Epoch :  413
+Epoch :  360
+Epoch :  380
+Epoch :  344
+Epoch :  368
+Epoch :  464
+Epoch :  375
+Epoch :  402
+Epoch :  434
+Epoch :  442
+Epoch :  420
+Epoch :  474
+Epoch :  478
+Epoch :  409
+Epoch :  503
+Epoch :  376
+Epoch :  406
+Epoch :  387
+Epoch :  426
+Epoch :  428
+Epoch :  457
+Epoch :  491
+Epoch :  417
+Epoch :  386
+Epoch :  381
+Epoch :  367
+Epoch :  504
+Epoch :  416
+Epoch :  439
+Epoch :  387
+Epoch :  419
+Epoch :  377
+Epoch :  509
+Epoch :  447
+Epoch :  421
+Epoch :  537
+Epoch :  390
+Epoch :  419
+Epoch :  409
+Epoch :  446
+Epoch :  363
+Epoch :  351
+Epoch :  342
+Epoch :  334
+Epoch :  396
+Epoch :  384
+Epoch :  555
+Epoch :  481
+Epoch :  367
+Epoch :  387
+Epoch :  537
+Epoch :  436
+Epoch :  360
+Epoch :  528
+Epoch :  412
+Epoch :  380
+Epoch :  445
+Epoch :  383
+Epoch :  423
+Epoch :  460
+Epoch :  376
+Epoch :  376
+Epoch :  493
+Epoch :  469
+Epoch :  387
+Epoch :  320
+Epoch :  381
+Epoch :  434
+Epoch :  340
+Epoch :  369
+Epoch :  346
+Epoch :  460
+Epoch :  475
+Epoch :  395
+Epoch :  390
+Epoch :  439
+
+X0 :  1.5
+t :  1.5
+
+
+Number of times neural network did not converge :  0
+Average epochs :  420
+
+
+==================================================================================================
+
+For N1 :  10
+
+
+Epoch :  352
+Epoch :  405
+Epoch :  346
+Epoch :  328
+Epoch :  361
+Epoch :  385
+Epoch :  356
+Epoch :  315
+Epoch :  350
+Epoch :  324
+Epoch :  418
+Epoch :  450
+Epoch :  422
+Epoch :  364
+Epoch :  358
+Epoch :  435
+Epoch :  332
+Epoch :  449
+Epoch :  399
+Epoch :  444
+Epoch :  429
+Epoch :  388
+Epoch :  452
+Epoch :  504
+Epoch :  327
+Epoch :  381
+Epoch :  454
+Epoch :  467
+Epoch :  364
+Epoch :  328
+Epoch :  391
+Epoch :  330
+Epoch :  356
+Epoch :  363
+Epoch :  412
+Epoch :  441
+Epoch :  371
+Epoch :  395
+Epoch :  376
+Epoch :  424
+Epoch :  350
+Epoch :  466
+Epoch :  376
+Epoch :  359
+Epoch :  427
+Epoch :  370
+Epoch :  359
+Epoch :  483
+Epoch :  349
+Epoch :  393
+Epoch :  351
+Epoch :  455
+Epoch :  448
+Epoch :  375
+Epoch :  351
+Epoch :  689
+Epoch :  353
+Epoch :  408
+Epoch :  340
+Epoch :  415
+Epoch :  394
+Epoch :  425
+Epoch :  465
+Epoch :  359
+Epoch :  396
+Epoch :  347
+Epoch :  387
+Epoch :  334
+Epoch :  376
+Epoch :  385
+Epoch :  434
+Epoch :  455
+Epoch :  341
+Epoch :  486
+Epoch :  365
+Epoch :  371
+Epoch :  424
+Epoch :  390
+Epoch :  455
+Epoch :  452
+Epoch :  429
+Epoch :  400
+Epoch :  368
+Epoch :  336
+Epoch :  369
+Epoch :  461
+Epoch :  373
+Epoch :  477
+Epoch :  379
+Epoch :  511
+Epoch :  400
+Epoch :  381
+Epoch :  427
+Epoch :  341
+Epoch :  382
+Epoch :  522
+Epoch :  385
+Epoch :  497
+Epoch :  358
+Epoch :  374
+
+X0 :  1.5
+t :  1.5
+
+
+Number of times neural network did not converge :  0
+Average epochs :  398
+
+
+==================================================================================================
+
+From the above acquired results, it can be inferred that the average epochs it takes to converge the neural network are inversely proportional to the number of neurons in the hidden layer.
+
+Also, the possibility that a neural net converges, increases with the increase in number of neurons in hidden layer.
+
+
+==================================================================================================
+
+
+Now, for N1 : 1
+
+

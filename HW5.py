@@ -26,10 +26,10 @@ Description : output based on the definition of the particular function.
               all the functions are defined as their standard definitions.
 """
 def sigmoid(x):
-    return 1.0/(1.0 + np.exp(-x))
+    return ((1.0 - np.exp(-x))/(1.0 + np.exp(-x)))
 
 def sigmoid_prime(x):
-    return (sigmoid(x)*(1.0-sigmoid(x)))
+    return (0.5*(1 + sigmoid(x))*(1.0-sigmoid(x)))
 
 def tanh(x):
     return np.tanh(x)
@@ -47,6 +47,8 @@ class NeuralNetwork:
         Set activation andactivation_prime functions
         """
         if activation == 'sigmoid':
+			
+            print ("sigmoid selected")
             self.activation = sigmoid
             self.activation_prime = sigmoid_prime
         elif activation == 'tanh':
@@ -58,12 +60,14 @@ class NeuralNetwork:
         """
         self.weights = []
         for i in range(1, len(layers) - 1):
-            r = np.random.random((layers[i-1] + 1, layers[i] + 1)) - 0.5
+            r = np.random.random((layers[i-1] + 1, layers[i] + 1)) - 0.5 #r = np.zeros((layers[i-1] + 1, layers[i] + 1))
             self.weights.append(r)
 
-        r = np.random.random( (layers[i] + 1, layers[i+1])) - 0.5
+        r = np.random.random( (layers[i] + 1, layers[i+1])) - 0.5 #r = np.zeros(   (layers[i] + 1, layers[i+1]))
         self.weights.append(r)
         
+        self.weights = np.array(self.weights)
+        print ("Fisrt weights: ", self.weights)
 
     """
     function fit()
@@ -81,9 +85,12 @@ class NeuralNetwork:
         X = X.astype(int)
         
         
-        
-        for k in range(epochs):
-            i = np.random.randint(X.shape[0])
+        sqe = 1000
+        k = 0
+        count = 0
+        while k < 4:   #count < 5
+            i = (k % X.shape[0])
+            #print(X.shape[0])
             a = [X[i]]
 
             for l in range(len(self.weights)):
@@ -116,10 +123,19 @@ class NeuralNetwork:
                 delta = np.atleast_2d(deltas[i])
                 self.weights[i] += learning_rate * layer.T.dot(delta)
 
-            n = int(math.ceil(epochs / 2000.0)) * 100
-            if k % n == 0:
-                print ("Total Square Error after %s epochs : %s"
-                       %(k, error[0]**2))
+            
+
+            #n = int(math.ceil(epochs / 2000.0)) * 10
+            sqe = error[0]**2
+            if k % 10000 == 0:
+                print ("Total Square Error after %s epochs : %s" %(k, sqe))
+            k += 1
+            if(sqe > 0.04):
+                count = 0
+            else:
+                count += 1
+        print ("Final epoch is %s and the Squred Eroor is %s" %(k, sqe))
+        print (self.weights)
 
     def predict(self, x): 
         a = np.concatenate((np.ones(1).T, np.array(x)), axis=0)      
@@ -136,7 +152,7 @@ Following code segment acts as main() function
 """
 Defining Neural Network and Input array and Target output.
 """
-nn = NeuralNetwork([2,2,1])
+nn = NeuralNetwork([2,4,1], 'tanh')
 X = np.array([[-1, -1],
               [-1, 1],
               [1, -1],
@@ -144,7 +160,7 @@ X = np.array([[-1, -1],
 y = np.array([-1, 1, 1, -1])
 
 #fits the neural network on given input data
-nn.fit(X, y, learning_rate = 0.05, epochs = 8000)
+nn.fit(X, y, learning_rate = 0.02, epochs = 387)
 
 print("\nTesting : ")
 #gives the output based on the input data
